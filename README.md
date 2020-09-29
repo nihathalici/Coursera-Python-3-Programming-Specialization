@@ -7,11 +7,11 @@ This specialization teaches the fundamentals of programming in Python 3.
 
 | Course | Description |
 | --- | --- |
-| `A Network analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
-| `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
-| `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
-| `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
-| `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
+| `Python Basics` | This course introduces the basics of Python 3, including conditional execution and iteration as control structures, and strings and lists as data structures.|
+| `Python Functions, Files, and Dictionaries` | This course introduces the dictionary data structure and user-defined functions. |
+| `Data Collection and Processing with Python` | This course teaches you to fetch and process data from services on the Internet.  |
+| `Python Classes and Inheritance` | This course introduces classes, instances, and inheritance. |
+| `Python Project: pillow, tesseract, and opencv` | This course will walk you through a hands-on project suitable for a portfolio.  |
 
 
 Links and Appendix
