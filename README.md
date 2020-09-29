@@ -1,14 +1,9 @@
-# Coursera-Python-3-Programming-Specialization
-This specialization teaches the fundamentals of programming in Python 3. 
-
 # Python 3 Programming Specialization
 <p align="center"> 
 <img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="500">
 </p>
 
-DataCamp is a time flexible, online data science learning platform offering tutorials and courses in data science. Students can master data analysis from the comfort of their browser, at their own pace, and tailored to their needs and expertise.
-
-My notebooks to [Datacamp](https://github.com/nihathalici/DataCamp) projects.
+This specialization teaches the fundamentals of programming in Python 3. 
 
 | Course | Description |
 | --- | --- |
