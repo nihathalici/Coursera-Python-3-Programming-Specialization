@@ -14,6 +14,7 @@ This specialization teaches the fundamentals of programming in Python 3.
 Links and Appendix
 ========================================================
 Offered by University of Michigan
+
 Taught by Paul Resnick, Steve Oney, Jaclyn Cohen, and Christopher Brooks 
 
 - Coursera: https://www.coursera.org/home
